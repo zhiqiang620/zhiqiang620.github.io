@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhiqiang Ma (马志强)"
+title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zhiqiang Ma"
 description              : &description "personal description"
 url                      : https://zhiqiang620.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "zhiqiang620/zhiqiang620.github.io"
 author:
   # Biographic information
   avatar           : "zhiqiang.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhiqiang Ma (马志强)"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate, research on AKE, PAKE, PKE"
   location         : "Fujian, China"
