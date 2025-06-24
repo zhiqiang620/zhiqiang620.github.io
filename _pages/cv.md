@@ -5,9 +5,15 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+
+paperurl: 'http://sherlma23.github.io/files/cv-EN.pdf'
 ---
 
 {% include base_path %}
+
+Fujian Normal University, College of Computer and Cyber Security, 350117
+
+地址：福建省福州市闽侯县上街镇乌龙江中大道18号福建师范大学旗山校区
 
 Education
 ======
