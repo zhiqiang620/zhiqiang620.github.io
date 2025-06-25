@@ -6,7 +6,7 @@ excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-06-24
 venue: 'GitHub Journal of Bugs'
 paperurl: 'http://zhiqiangma620/zhiqiangma620.github.io/files/cv-EN.pdf'
-paperurl: 'http://zhiqiangma620/zhiqiangma620.github.io/files/cv-CN.pdf'
+# paperurl: 'http://zhiqiangma620/zhiqiangma620.github.io/files/cv-CN.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
